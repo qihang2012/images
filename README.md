@@ -46,4 +46,4 @@
 ![敏感文字过滤](https://im6.ezgif.com/tmp/ezgif-6-e00e4f5d063d.gif)
 
 **视频检测**
-![视频检测](https://im6.ezgif.com/tmp/ezgif-6-1e8ce9a20323.gif)
+![视频检测](https://github.com/qihang2012/images/blob/master/imgs/ezgif-6-1e8ce9a20323.gif)
