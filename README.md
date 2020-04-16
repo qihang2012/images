@@ -47,3 +47,9 @@
 
 #### 视频检测
 ![视频检测](https://github.com/qihang2012/images/blob/master/imgs/ezgif-6-1e8ce9a20323.gif)
+
+### 参考
+- https://github.com/kaldi-asr/kaldi
+- https://github.com/yahoo/open_nsfw
+- https://github.com/chineseocr/chineseocr
+- https://github.com/eragonruan/text-detection-ctpn
