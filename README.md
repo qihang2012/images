@@ -36,7 +36,7 @@
 - 创建用户Django：python backend/manage_task.py createsuperuser
 
 # 项目截图
-**暴恐色情识别**
+#暴恐色情识别
 ![暴恐色情识别](https://github.com/qihang2012/images/blob/master/imgs/ezgif-6-761b57feb74b.gif)
 
 **通用识别**
