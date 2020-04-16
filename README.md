@@ -39,11 +39,11 @@
 #### 暴恐色情识别
 ![暴恐色情识别](https://github.com/qihang2012/images/blob/master/imgs/ezgif-6-761b57feb74b.gif)
 
-**通用识别**
+#### 通用识别
 ![通用识别](https://github.com/qihang2012/images/blob/master/imgs/ezgif-6-71cff4d50b97.gif)
 
-**敏感文字过滤**
+#### 敏感文字过滤
 ![敏感文字过滤](https://github.com/qihang2012/images/blob/master/imgs/ezgif-6-e00e4f5d063d.gif)
 
-**视频检测**
+#### 视频检测
 ![视频检测](https://github.com/qihang2012/images/blob/master/imgs/ezgif-6-1e8ce9a20323.gif)
